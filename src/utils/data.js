@@ -2,41 +2,41 @@
 const data = [
     {
         EMPID: 1,
-        Name: "Arjun",
-        DOB: "16-11-2000",
+        Name: "Nishanth",
+        DOB: "05-12-2001",
         Role: "Software Engineer"
     },
     {
         EMPID: 2,
-        Name: "Mahesh",
+        Name: "Arjun",
         DOB: "13-11-2022",
         Role: "Web Developer"
     }, {
         EMPID: 3,
-        Name: "Vikash",
+        Name: "Puneeth",
         DOB: "01-10-2000",
         Role: "Manager"
     },
     {
         EMPID: 4,
-        Name: "Aman",
+        Name: "Ram",
         DOB: "21-11-2022",
         Role: "Software Developer"
     },
     {
         EMPID: 5,
-        Name: "Rohit",
+        Name: "Tom",
         DOB: "27-12-2000",
         Role: "Web Developer"
     }, {
         EMPID: 6,
-        Name: "Sumit",
+        Name: "Suresh",
         DOB: "12-01-2000",
         Role: "Software Engineer"
     },
     {
         EMPID: 7,
-        Name: "Amit",
+        Name: "Harsha",
         DOB: "06-11-2003",
         Role: "Software Engineer"
     }
