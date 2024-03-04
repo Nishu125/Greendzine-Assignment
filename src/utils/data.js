@@ -8,7 +8,7 @@ const data = [
     },
     {
         EMPID: 2,
-        Name: "Arjun",
+        Name: "Ajay",
         DOB: "13-11-2022",
         Role: "Web Developer"
     }, {
@@ -19,13 +19,13 @@ const data = [
     },
     {
         EMPID: 4,
-        Name: "Ram",
+        Name: "Dhruva",
         DOB: "21-11-2022",
         Role: "Software Developer"
     },
     {
         EMPID: 5,
-        Name: "Tom",
+        Name: "Ben",
         DOB: "27-12-2000",
         Role: "Web Developer"
     }, {
